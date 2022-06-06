@@ -1,5 +1,5 @@
-string = input("Enter Text: ")
+str = input("Enter Text: ")
 
-string = string.lower()
+str = str.lower()
 
-print(string)
+print(str)
